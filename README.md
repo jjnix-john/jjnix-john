@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm John Elton
+</h1>
 
-<!--
-**jjnix-john/jjnix-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF7A00&center=true&vCenter=true&width=600&lines=Future+Frontend+Developer;React+Newbie;Future+Full+Stack+Engineer;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Currently learning **React & Modern Web Development**
+- 🔥 Building clean and responsive websites
+- 🎯 Goal: Become a Full Stack Developer
+- 📍 Philippines
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=ff7a00&icon_color=ff7a00" height="150" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=ff7a00&fire=ff7a00" height="150" />
+</p>
+
+---
+
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=120&section=footer"/>
+</p>
