@@ -37,6 +37,8 @@
 </p>
 
 ---
+![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
 <h1 align="center">L2nnn.</h1>
 <h1 align="center">Masternix</h1>
