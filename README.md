@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF7A00&center=true&vCenter=true&width=600&lines=Future+Frontend+Developer;React+Newbie;Future+Full+Stack+Engineer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=FF7A00&center=true&vCenter=true&width=600&lines=Future+Frontend+Developer;React+Newbie;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -37,10 +37,6 @@
 </p>
 
 ---
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
 <h1 align="center">L2nnn.</h1>
