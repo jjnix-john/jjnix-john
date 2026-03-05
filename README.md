@@ -25,13 +25,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjnix-john&show_icons=true&theme=radical&title_color=ff7a00&icon_color=ff7a00" height="150" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjnix-john&theme=radical&ring=ff7a00&fire=ff7a00" height="150" />
-</p>
 
 ---
 
