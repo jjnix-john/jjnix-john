@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm John
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Explorer;React+%7C+Java+%7C+Python;Building+Cool+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Explorer;React+%7C+Java+%7C+C#;Building+Cool+Projects" />
 
 </div>
 
@@ -22,7 +22,6 @@
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -66,17 +65,7 @@
 
 </p>
 
----
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jjnix-john/jjnix-john/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
 
 ## 📌 Featured Projects
 
@@ -96,6 +85,9 @@ Projects exploring AI-powered automation and intelligent systems.
 🌐 GitHub: https://github.com/jjnix-john  
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jjnix-john&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 <div align="center">
 
