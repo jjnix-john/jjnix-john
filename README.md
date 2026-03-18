@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hello, I'm John
+# 👋 Hello, I'm John Elton Geromo, Nicknames: L2nnn. , MasterNix, Elts, Toniks
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Explorer;React+%7C+Java+%7C+C#;Building+Cool+Projects" />
 
