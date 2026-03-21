@@ -1,9 +1,11 @@
 <div align="center">
 
-# 👋 Hello, I'm John Elton Geromo, Nicknames: L2nnn. , MasterNix, Elts, Toniks
+# 👋 Hey there! I'm John Elton Geromo  
+### aka **L2nnn | MasterNix | Elts | Toniks**
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer;Tech+Explorer;React+%7C+Java+%7C+C%23;Building+Impactful+Projects;Always+Learning+New+Things" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Explorer;React+%7C+Java+%7C+C#;Building+Cool+Projects" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 </div>
 
@@ -11,85 +13,133 @@
 
 ## 🚀 About Me
 
-📚 Currently a 3rd year college student studying computing and software development
+```yaml
+Name: John Elton Geromo
+Education: 3rd Year BS Computing
+Location: Philippines 🇵🇭
+Focus: Software Development & AI Systems
+```
 
-🧑‍💻 Interested in web development, software systems, and AI-based applications
+- 💻 Passionate about building real-world systems  
+- 🧠 Exploring AI, automation, and smart applications  
+- ⚛️ Developing modern web apps using React & backend tools  
+- 🛠️ Loves solving problems through code  
+- 📈 Constantly improving and learning new technologies  
 
-🛠️ Technologies I work with: React, Java, C, C#, PHP, HTML, CSS
+---
 
-🌱 Continuously improving my problem-solving and programming skills
+## 🧠 Dev Mindset
 
-⚡ I enjoy creating projects that solve real-world problems
+> “Code is not just syntax — it's a solution to real problems.”
+
+- 🔍 I focus on efficiency + usability  
+- 🧩 I enjoy breaking down complex systems  
+- 🚀 I build projects that actually help people  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,java,c,cs,php,html,css" />
+</p>
 
 ### ⚙️ Tools & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjnix-john&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=jjnix-john&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnix-john&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jjnix-john&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=jjnix-john&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 📈 Activity Graph
 
-🚀 **Sports Tournament Manager**  
-A Java GUI system for managing teams, matches, and leaderboards.
+<div align="center">
 
-⚛️ **React Practice Projects**  
-Small applications used to improve modern React development skills.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjnix-john&theme=tokyo-night&hide_border=true"/>
 
-🤖 **AI-Based Systems**  
-Projects exploring AI-powered automation and intelligent systems.
+</div>
+
+---
+
+## 🧩 Featured Projects
+
+### 🚀 Sports Tournament Manager
+> Java GUI system for managing teams, matches, and leaderboards  
+✔️ Includes match history & undo system  
+✔️ Uses structured data handling  
+
+---
+
+### ⚛️ React Practice Projects
+> Collection of small apps to master modern React  
+✔️ Components, hooks, UI logic  
+✔️ Real-world mini features  
+
+---
+
+### 🤖 AI-Based Systems
+> Exploring intelligent and automated solutions  
+✔️ Smart decision-making systems  
+✔️ Early-stage AI integrations  
+
+---
+
+## 🏆 Goals (2026)
+
+- 🚀 Build a full-stack production system  
+- 🤖 Integrate AI into real applications  
+- 🌐 Launch a public SaaS or web platform  
+- 📚 Master advanced backend systems  
 
 ---
 
 ## 📫 Connect With Me
 
-🌐 GitHub: https://github.com/jjnix-john  
+<div align="center">
+
+<a href="https://github.com/jjnix-john">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
+
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jjnix-john&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jjnix-john&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
 
 <div align="center">
 
-⭐ *Thanks for visiting my profile!*
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=footer"/>
 
 </div>
