@@ -1,28 +1,24 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- 🔥 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=John%20Elton%20Geromo&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=John%20Elton%20Geromo&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-
-# 👋 Hey, I'm John Elton Geromo
-
+# 👋 Hello, I'm John Elton Geromo  
 ### ⚡ *L2nnn | MasterNix | Elts | Toniks*
 
-<!-- Typing Animation -->
+<!-- 💻 Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;System+Builder;AI+Enthusiast;React+%7C+Java+%7C+C%23;Always+Leveling+Up+🚀" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Tech+Explorer;React+%7C+Java+%7C+C%23;Building+Smart+Systems;Always+Leveling+Up" />
+<br/>
 
-<br>
-
-<!-- Animated GIF -->
-
+<!-- 🧠 Animated Dev GIF -->
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
 ```yaml
 Name: John Elton Geromo
@@ -32,46 +28,59 @@ Location: Philippines 🇵🇭
 Focus: Full-Stack Development | AI Systems
 ```
 
-💡 I build systems that solve real-world problems
-⚙️ Passionate about automation, AI, and scalable apps
-⚛️ Currently focused on modern web development (React + backend)
-🧠 Always learning, always improving
-🔥 Turning ideas into working systems
+💡 I build systems that solve real-world problems  
+⚙️ Passionate about automation, AI, and scalable apps  
+⚛️ Currently focused on modern web development  
+🧠 Growth mindset — always learning  
+🔥 Turning ideas into working systems  
 
 ---
 
-## 🧠 Dev Philosophy
+## ⚡ Dev Mindset  
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
 </div>
 
-* 🔍 Simplicity > Complexity
-* 🚀 Build things that matter
-* 🧩 Break problems into systems
-* 📈 Optimize, refine, repeat
+```
+🔍 Simplicity > Complexity
+🚀 Build things that matter
+🧩 Think in systems
+📈 Optimize. Iterate. Improve.
+```
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Arsenal  
 
 ### 💻 Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,java,c,cs,php,html,css,js" />
 </p>
 
 ### ⚙️ Tools & Frameworks
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Current Focus  
+
+<div align="center">
+
+| 🚀 Area | 🔥 What I'm Doing |
+|--------|-----------------|
+| Full-Stack | Building scalable web apps |
+| AI Systems | Exploring smart automation |
+| Backend | APIs, architecture, optimization |
+| Frontend | Clean UI + smooth UX |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
 
@@ -83,7 +92,7 @@ Focus: Full-Stack Development | AI Systems
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak  
 
 <div align="center">
 
@@ -93,7 +102,7 @@ Focus: Full-Stack Development | AI Systems
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph  
 
 <div align="center">
 
@@ -103,56 +112,77 @@ Focus: Full-Stack Development | AI Systems
 
 ---
 
-## 🧩 Featured Projects
+## 🧠 Skill Progress  
 
-### 🏆 Sports Tournament Manager
+<div align="center">
 
-💻 Java GUI System
-✔️ Team & match management
-✔️ Leaderboard using data structures
-✔️ Undo match system
+![Frontend](https://progress-bar.dev/80/?title=Frontend&width=500&color=00F7FF)
+![Backend](https://progress-bar.dev/75/?title=Backend&width=500&color=007CF0)
+![AI Systems](https://progress-bar.dev/60/?title=AI%20Systems&width=500&color=00C2FF)
 
----
-
-### ⚛️ React Practice Lab
-
-💡 Hands-on React experiments
-✔️ Components & hooks
-✔️ UI logic + state handling
-✔️ Real-world mini features
+</div>
 
 ---
 
-### 🤖 AI Systems (In Progress)
+## 🧩 Featured Projects  
 
-🚀 Smart & automated solutions
-✔️ Decision-making systems
-✔️ AI-powered features
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Launch a full-stack production app
-* 🤖 Build real AI-powered systems
-* 🌐 Deploy a public SaaS platform
-* 📚 Master backend architecture & scalability
+### 🏆 Sports Tournament Manager  
+💻 Java GUI System  
+✔️ Team & match management  
+✔️ Leaderboard using BST  
+✔️ Undo match functionality  
 
 ---
 
-## 🌐 Connect With Me
+### ⚛️ React Practice Lab  
+💡 Experiment-driven learning  
+✔️ Components & Hooks  
+✔️ State management  
+✔️ Real-world mini features  
+
+---
+
+### 🤖 AI Systems *(In Progress)*  
+🚀 Smart automation & intelligence  
+✔️ Decision-making systems  
+✔️ AI-powered features  
+
+---
+
+## 🎯 2026 Goals  
+
+```
+🚀 Launch a production-ready full-stack app
+🤖 Build real AI-powered systems
+🌐 Deploy a public SaaS platform
+📚 Master backend architecture & scalability
+```
+
+---
+
+## 🌐 Connect With Me  
 
 <div align="center">
 
 <a href="https://github.com/jjnix-john">
-  <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## 👀 Profile Views
+## 🧭 Developer Quote  
+
+<div align="center">
+
+> “Code is not just syntax — it's problem solving, logic, and creativity combined.”
+
+</div>
+
+---
+
+## 👀 Profile Views  
 
 <div align="center">
 
@@ -162,10 +192,9 @@ Focus: Full-Stack Development | AI Systems
 
 ---
 
-<!-- Footer Wave -->
-
+<!-- 🌊 Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=140&section=footer"/>
 
 </div>
