@@ -1,90 +1,84 @@
 <div align="center">
 
-<!-- 🔥 Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=John%20Elton%20Geromo&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
+<!-- 🖤 Sleek Dark Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=220&section=header&text=John%20Elton%20Geromo&fontSize=42&fontAlignY=40&animation=fadeIn&fontColor=00F7FF" />
 
 # 👋 Hello, I'm John Elton Geromo  
 ### ⚡ *L2nnn | MasterNix | Elts | Toniks*
 
 <!-- 💻 Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;System+Builder;AI+Enthusiast;React+%7C+Java+%7C+C%23;Always+Leveling+Up+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;System+Builder;AI+Enthusiast;React+%7C+Java+%7C+C%23;Building+Things+That+Matter+🚀" />
 
 <br/>
 
-<!-- 🧠 Animated Dev GIF -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
 </div>
 
 ---
 
-## 🚀 About Me  
+## 🧠 About Me  
 
 ```yaml
 Name: John Elton Geromo
 Role: Aspiring Software Engineer
-Education: 3rd Year BS Computing
+Education: BS Computing (3rd Year)
 Location: Philippines 🇵🇭
 Focus: Full-Stack Development | AI Systems
 ```
 
 💡 I build systems that solve real-world problems  
-⚙️ Passionate about automation, AI, and scalable apps  
-⚛️ Currently focused on modern web development  
-🧠 Growth mindset — always learning  
-🔥 Turning ideas into working systems  
+⚙️ Focused on scalable architectures & clean code  
+⚛️ Exploring modern web + AI integration  
+📈 Constantly improving, shipping, and learning  
 
 ---
 
-## ⚡ Dev Mindset  
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+## ⚡ Dev Philosophy  
 
 ```
-🔍 Simplicity > Complexity
-🚀 Build things that matter
-🧩 Think in systems
-📈 Optimize. Iterate. Improve.
+🔍 Simplicity beats complexity
+🧩 Think in systems, not features
+🚀 Build things that actually matter
+📈 Optimize → Iterate → Improve
 ```
 
 ---
 
-## 🛠 Tech Arsenal  
+## 🛠 Tech Stack  
 
 ### 💻 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,java,c,cs,php,html,css,js" />
 </p>
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 🧩 Current Focus  
+## 🚀 Current Focus  
 
 <div align="center">
 
-| 🚀 Area | 🔥 What I'm Doing |
-|--------|-----------------|
-| Full-Stack | Building scalable web apps |
-| AI Systems | Exploring smart automation |
-| Backend | APIs, architecture, optimization |
-| Frontend | Clean UI + smooth UX |
+| Area | What I'm Doing |
+|------|--------------|
+| Full-Stack | Building scalable applications |
+| AI Systems | Smart automation & logic |
+| Backend | APIs, architecture, performance |
+| Frontend | Clean UI & UX |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjnix-john&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jjnix-john&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnix-john&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
@@ -92,75 +86,46 @@ Focus: Full-Stack Development | AI Systems
 
 ---
 
-## 🔥 Contribution Streak  
+## 🔥 Streak  
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jjnix-john&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=jjnix-john&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph  
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjnix-john&theme=tokyo-night&hide_border=true&line=00F7FF&point=FFFFFF"/>
-
-</div>
-
----
-
-## 🧠 Skill Progress  
-
-<div align="center">
-
-![Frontend](https://progress-bar.dev/80/?title=Frontend&width=500&color=00F7FF)
-![Backend](https://progress-bar.dev/75/?title=Backend&width=500&color=007CF0)
-![AI Systems](https://progress-bar.dev/60/?title=AI%20Systems&width=500&color=00C2FF)
-
-</div>
-
----
-
-## 🧩 Featured Projects  
+## 🧩 Projects  
 
 ### 🏆 Sports Tournament Manager  
-💻 Java GUI System  
-✔️ Team & match management  
-✔️ Leaderboard using BST  
-✔️ Undo match functionality  
-
----
+✔️ Java GUI System  
+✔️ Leaderboard (BST)  
+✔️ Undo match system  
 
 ### ⚛️ React Practice Lab  
-💡 Experiment-driven learning  
 ✔️ Components & Hooks  
 ✔️ State management  
-✔️ Real-world mini features  
+✔️ Real-world features  
 
----
-
-### 🤖 AI Systems *(In Progress)*  
-🚀 Smart automation & intelligence  
-✔️ Decision-making systems  
-✔️ AI-powered features  
+### 🤖 AI Systems *(WIP)*  
+✔️ Automation logic  
+✔️ Intelligent decision systems  
 
 ---
 
 ## 🎯 2026 Goals  
 
 ```
-🚀 Launch a production-ready full-stack app
+🚀 Launch a full-stack production app
 🤖 Build real AI-powered systems
-🌐 Deploy a public SaaS platform
-📚 Master backend architecture & scalability
+🌐 Deploy a SaaS platform
+📚 Master backend architecture
 ```
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect  
 
 <div align="center">
 
@@ -172,29 +137,29 @@ Focus: Full-Stack Development | AI Systems
 
 ---
 
-## 🧭 Developer Quote  
+## 🧭 Dev Quote  
 
 <div align="center">
 
-> “Code is not just syntax — it's problem solving, logic, and creativity combined.”
+> "Code is not just syntax — it's structured thinking."
 
 </div>
 
 ---
 
-## 👀 Profile Views  
+## 👀 Views  
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jjnix-john&label=Profile%20Views&color=00F7FF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=jjnix-john&color=00F7FF&style=flat"/>
 
 </div>
 
 ---
 
-<!-- 🌊 Footer -->
+<!-- 🖤 Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=140&section=footer"/>
 
 </div>
